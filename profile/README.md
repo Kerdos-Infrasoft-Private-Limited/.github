@@ -1,8 +1,10 @@
 <div align="center">
 
+<a href="https://kerdos.in"><img src="https://i.ibb.co/Xx056FRw/Chat-GPT-Image-Apr-8-2025-08-26-35-PM.png" alt="Kerdos AI - Kerdos Infrasoft" width="600"></a>
+
 # Kerdos Infrasoft Private Limited
 
-**AI · Infrastructure · Consulting**
+**AI Safety · Alignment Infrastructure · Superintelligence Training**
 
 🌐 [kerdos.in](https://kerdos.in) &nbsp;|&nbsp; 📍 Bengaluru, Karnataka, India &nbsp;|&nbsp; 📅 Est. December 2023
 
@@ -18,11 +20,9 @@
 
 ## 🏢 Who We Are
 
-**Kerdos Infrasoft Private Limited** is a technology-first company that builds AI-powered infrastructure products and delivers enterprise consulting services across India. Founded in Bengaluru in December 2023, we sit at the intersection of artificial intelligence, physical infrastructure, and business transformation.
+**Kerdos Infrasoft Private Limited** is an **AI Safety & Alignment Infrastructure** company building the foundational systems needed to train superintelligence safely and responsibly. Founded in Bengaluru in December 2023, we are pioneering infrastructure, alignment systems, and interpretability tools that enable frontier AI research while prioritizing safety, transparency, and responsible development practices.
 
-We work with healthcare providers, financial institutions, manufacturers, and government bodies to replace legacy complexity with intelligent, scalable, and secure solutions — made for India, built for the world.
-
-> *"Transforming healthcare, finance, and government with intelligent, scalable AI solutions."*
+> *"Building infrastructure to train superintelligence safely."*
 
 ---
 
@@ -30,8 +30,8 @@ We work with healthcare providers, financial institutions, manufacturers, and go
 
 | | |
 |---|---|
-| **Mission** | To democratise enterprise-grade AI and infrastructure by making it accessible, affordable, and responsible for every organisation — regardless of size or sector. |
-| **Vision** | To be India's most trusted AI infrastructure partner, enabling a smarter, more connected, and more equitable nation. |
+| **Mission** | To build infrastructure, alignment systems, and interpretability tools for training superintelligence safely — enabling responsible AI development at scale. |
+| **Vision** | To empower the future with trustworthy, transparent, and powerful AI technologies that augment human capabilities while ensuring safety and alignment with human values. |
 
 ---
 
@@ -41,10 +41,13 @@ We work with healthcare providers, financial institutions, manufacturers, and go
 |---|---|
 | **Legal Name** | Kerdos Infrasoft Private Limited |
 | **Trade Name** | Kerdos Infrasoft / Kerdos AI |
+| **Company Type** | Private Company (limited by shares) |
+| **Incorporation Date** | 29 December 2023 |
+| **CIN** | U62099KA2023PTC182869 |
 | **Headquarters** | Unit 101, Oxford Towers, 139 HAL Old Airport Road, Bengaluru North, Karnataka — 560008 |
 | **Website** | [kerdos.in](https://kerdos.in) |
-| **NAICS Code** | 541512 (Computer Systems Design Services) |
-| **AmbitionBox Rating** | ⭐ 4.3 / 5.0 |
+| **AmbitionBox Rating** | ⭐ 4.3 / 5.0 (15 reviews) |
+| **Status** | DPIIT-recognised startup, MSME registered |
 
 ---
 
@@ -57,153 +60,252 @@ We work with healthcare providers, financial institutions, manufacturers, and go
 
 ---
 
-## 🛠️ Services
+## 🚀 Core Services
 
-### 🤖 AI Solutions
-> *Transform your business with cutting-edge artificial intelligence and machine learning.*
+### 🧠 Superintelligence Training Infrastructure
+> *Build and scale distributed training systems for frontier AI models.*
 
-**Capabilities:** Machine Learning Models · Natural Language Processing · Computer Vision · Predictive Analytics · AI-Powered Automation · Deep Learning
+**Capabilities:**
+- Distributed Compute Orchestration
+- Model Scaling Frameworks
+- Efficient Training Pipelines
+- Fault-Tolerant Architecture
+- Multi-Node Synchronization
+- Exascale Training Systems
 
-**Tech Stack:** TensorFlow · PyTorch · OpenAI · Azure AI · AWS SageMaker
-
----
-
-### 🏗️ Infrastructure Development
-> *Build robust, scalable infrastructure that powers modern enterprises and smart cities.*
-
-**Capabilities:** Cloud Infrastructure · Network Architecture · Data Center Solutions · Edge Computing · Infrastructure as Code · Disaster Recovery
-
-**Tech Stack:** AWS · Azure · Google Cloud · Kubernetes · Terraform
-
-**SLA:** 99.99% uptime guarantee
+**Tech Stack:** PyTorch Distributed · DeepSpeed · Megatron-LM · Ray · Kubernetes
 
 ---
 
-### 🏢 Construction Services
-> *Comprehensive construction and project management with BIM and smart building integration.*
+### 🛡️ AI Safety & Alignment Systems
+> *Ensure AI systems align with human values and operate safely.*
 
-**Capabilities:** Project Management · BIM Integration · Smart Building Solutions · Sustainable Construction · Quality Assurance · Safety Management
+**Capabilities:**
+- Constitutional AI Training
+- Reward Modeling Systems
+- Preference Learning Pipelines
+- Value Alignment Frameworks
+- RLHF at Scale
+- Safety Evaluation Suites
 
-**Tech Stack:** BIM 360 · Procore · AutoCAD · Revit · IoT Sensors
+**Tech Stack:** Anthropic Claude · OpenAI Alignment · Constitutional AI · RLHF · Debate
 
 ---
 
-### 💡 Enterprise Consulting
-> *Strategic consulting to drive digital transformation and business excellence.*
+### 🔍 Interpretability & Oversight Platforms
+> *Understand and monitor AI model behavior at scale.*
 
-**Capabilities:** Digital Transformation · Business Process Optimisation · Technology Strategy · Change Management · Risk Assessment · Performance Analytics
+**Capabilities:**
+- Mechanistic Interpretability
+- Activation Analysis
+- Circuit Discovery
+- Feature Visualization
+- Model Behavior Monitoring
+- Anomaly Detection
 
-**Tech Stack:** SAP · Salesforce · Microsoft Dynamics · Power BI · Tableau
+**Tech Stack:** TransformerLens · Captum · InterpretML · SHAP · Neuron Viewer
+
+---
+
+### 🔬 Frontier Research Enablement
+> *Infrastructure and tools for cutting-edge AI research.*
+
+**Capabilities:**
+- Research Collaboration Tools
+- Governance Frameworks
+- Safety Evaluation Systems
+- Reproducibility Infrastructure
+- Peer Review Platforms
+- Open Science Practices
+
+**Tech Stack:** Weights & Biases · MLflow · DVC · Papers with Code · ArXiv
+
+---
+
+## 💼 Products
+
+### 🤖 Kerdos AI (Enterprise)
+> *Private Document Q&A & LLM Chat powered by RAG and LLaMA 3.1*
+
+**Key Features:**
+- Private LLM deployment - zero data leaves your environment
+- Document Q&A with RAG architecture
+- FAISS vector search for semantic retrieval
+- Works with PDF, DOCX, TXT, CSV, MD formats
+- CPU-friendly - no GPU required
+
+**Benefits:**
+- Complete data privacy and security
+- On-premise or private cloud deployment
+- Customizable for enterprise workflows
+- Fast document processing and retrieval
+
+**Try the Demo:** [huggingface.co/spaces/kerdosdotio/Custom-LLM-Chat](https://huggingface.co/spaces/kerdosdotio/Custom-LLM-Chat)
+
+---
+
+### 🐍 KerdosAI Python SDK (Developer)
+> *Official Python SDK for Kerdos AI services*
+
+**Key Features:**
+- Easy Integration with existing workflows
+- Type Hinting for better developer experience
+- Async Support for high-performance applications
+- Extensive Documentation and examples
+
+**Benefits:**
+- Programmatic access to Kerdos AI capabilities
+- Build custom agentic workflows
+- Rapid LLM prototyping
+- Production-ready code
 
 ---
 
 ## 🌐 Industries We Serve
 
-### 🏥 Healthcare
-**Challenges solved:** Patient data management, regulatory compliance, interoperability, rising operational costs, cybersecurity threats
-
+### 🔬 AI Safety Research
 **Solutions delivered:**
-- Electronic Health Records (EHR) systems
-- Telemedicine platforms
-- AI-powered diagnostics
-- Healthcare analytics
-- HIPAA-compliant infrastructure
+- Red-teaming platforms
+- Adversarial testing suites
+- Safety evaluation frameworks
+- Threat modeling tools
 
 ---
 
-### 🏦 Financial Services
-**Challenges solved:** Legacy system modernisation, fraud detection, regulatory compliance, customer experience, data security
-
+### 🧩 AI Alignment Research
 **Solutions delivered:**
-- Core banking systems
-- Payment processing platforms
-- Fraud detection AI
-- Blockchain solutions
-- Mobile banking apps
+- Constitutional AI frameworks
+- Preference learning systems
+- Reward modeling platforms
+- Value alignment tools
 
 ---
 
-### 🏭 Manufacturing
-**Challenges solved:** Production optimisation, supply chain visibility, quality control, equipment maintenance, workforce management
-
+### 🔍 Interpretability Research
 **Solutions delivered:**
-- IoT sensor networks
-- Predictive maintenance
-- Digital twin technology
-- Supply chain analytics
-- Automated quality inspection
+- Mechanistic interpretability tools
+- Circuit discovery frameworks
+- Activation analysis systems
+- Feature visualization platforms
 
 ---
 
-### 🏛️ Government & Public Sector
-**Challenges solved:** Citizen engagement, service delivery efficiency, data transparency, infrastructure management, budget constraints
-
+### 🏛️ Governance & Policy
 **Solutions delivered:**
-- Smart city platforms
-- E-governance portals
-- Public safety systems
-- Infrastructure monitoring
-- Citizen service apps
+- Governance frameworks
+- Safety standard protocols
+- Oversight systems
+- Compliance monitoring tools
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Technology Stack
 
-### Smart Hospital Management System
-> **Industry:** Healthcare &nbsp;|&nbsp; **Duration:** 12 months &nbsp;|&nbsp; **Status:** ✅ Completed
+### **Machine Learning & AI**
+- **Deep Learning:** PyTorch Distributed, DeepSpeed, Megatron-LM, TensorFlow
+- **LLMs:** LLaMA 3.1, Anthropic Claude, OpenAI GPT, Constitutional AI
+- **Vector Search:** FAISS, Pinecone
+- **ML Ops:** Weights & Biases, MLflow, DVC
+- **Interpretability:** TransformerLens, Captum, InterpretML, SHAP
 
-AI-powered hospital management platform serving 500+ beds with integrated EHR, appointment scheduling, and predictive analytics.
+### **Frontend & UI**
+- **Framework:** Next.js 16.2.3 (App Router)
+- **Language:** TypeScript 5
+- **React:** 19.2.3
+- **Styling:** Tailwind CSS v4 with custom OKLCH color system
+- **UI Components:** shadcn/ui, Radix UI primitives
+- **Animations:** Framer Motion 12.34.0
+- **3D Graphics:** Three.js 0.183.2
 
-| Metric | Improvement |
-|---|---|
-| Patient Wait Time Reduction | **40%** |
-| Diagnostic Accuracy Improvement | **25%** |
-| Operational Efficiency Increase | **30%** |
+### **Backend & Infrastructure**
+- **Orchestration:** Kubernetes, Ray
+- **Cloud:** AWS, Azure, Google Cloud
+- **Storage:** AWS S3, Upstash Redis, Upstash KV
+- **Authentication:** NextAuth v5, SimpleWebAuthn (passkeys)
+- **Email:** Mailtrap, Nodemailer
+
+### **Security**
+- **Password Hashing:** bcryptjs
+- **Sanitization:** DOMPurify
+- **Rate Limiting:** Upstash Redis
+- **Headers:** HSTS, CSP, X-Frame-Options
+
+### **Performance & Monitoring**
+- **Analytics:** Vercel Analytics
+- **Monitoring:** Web Vitals tracking
+- **Optimization:** Sharp (images), Critters (critical CSS)
+- **Caching:** Static asset caching (1 year)
+
+### **Developer Experience**
+- **Linting:** ESLint 9 (flat config)
+- **Type Safety:** TypeScript strict mode
+- **Dev Server:** Turbopack
+- **Workers:** Wrangler (Cloudflare Workers)
 
 ---
 
-### Fraud Detection Platform
-> **Industry:** Financial Services &nbsp;|&nbsp; **Duration:** 8 months &nbsp;|&nbsp; **Status:** ✅ Completed
+## 🎨 Design System
 
-Real-time fraud detection system processing 1M+ transactions daily with 99.9% accuracy using machine learning.
+### **Typography**
+- **Display Font:** Montserrat (hero headings)
+- **Sans Font:** Lexend (body text, UI)
+- **Accessible Font:** Atkinson Hyperlegible (labels, captions)
+- **Monospace Font:** JetBrains Mono (code blocks)
 
-| Metric | Result |
-|---|---|
-| False Positive Reduction | **60%** |
-| Annual Savings | **$2M** |
-| Transaction Processing | **Real-time** |
-
----
-
-### Smart Factory Automation
-> **Industry:** Manufacturing &nbsp;|&nbsp; **Duration:** 18 months &nbsp;|&nbsp; **Status:** ✅ Completed
-
-Industry 4.0 transformation with IoT sensors, predictive maintenance, and automated quality control.
-
-| Metric | Improvement |
-|---|---|
-| Production Efficiency Increase | **40%** |
-| Defect Reduction | **35%** |
-| Downtime Decrease | **50%** |
+### **Color System (OKLCH)**
+- **Primary:** oklch(55% 0.22 250) - deep corporate blue
+- **Accent:** oklch(70% 0.18 230) - interactive blue
+- **Surface:** oklch(20% 0.04 250) - dark card background
+- **Background:** oklch(14% 0.02 250) - near-black
+- **Foreground:** oklch(95% 0.01 250) - off-white
 
 ---
 
-### Smart City Platform
-> **Industry:** Government &nbsp;|&nbsp; **Duration:** 24 months &nbsp;|&nbsp; **Status:** ✅ Completed
+## 🚀 Key Features
 
-Integrated smart city solution managing traffic, utilities, and citizen services for 2M+ residents.
+### **Progressive Web App (PWA)**
+- Service worker for offline functionality
+- Install banner for native-like experience
+- Offline fallback page
+- Manifest with app icons
 
-| Metric | Result |
-|---|---|
-| Service Delivery Improvement | **30%** |
-| Energy Consumption Reduction | **25%** |
-| Citizen Engagement | **Enhanced** |
+### **Accessibility (WCAG 2.1 AA)**
+- Skip-to-content links
+- Semantic HTML structure
+- Atkinson Hyperlegible font for readability
+- Keyboard navigation support
+- Screen reader optimization
+- ARIA labels and live regions
+
+### **SEO Optimization**
+- Structured data (JSON-LD)
+- OpenGraph and Twitter cards
+- Dynamic sitemap and robots.txt
+- 4.3★ rating display (AmbitionBox)
+- Job posting schema for careers
+- Local business schema
+
+### **Performance Targets**
+- **LCP** (Largest Contentful Paint): < 2.5s
+- **FID** (First Input Delay): < 100ms
+- **INP** (Interaction to Next Paint): < 200ms
+- **CLS** (Cumulative Layout Shift): < 0.1
+- **TTFB** (Time to First Byte): < 600ms
+- **Lighthouse Score:** Target > 90
+
+### **Mobile-First Design**
+- Bottom navigation (Home, Services, Quote, Contact, More)
+- Safe area inset support (iPhone notch)
+- Haptic feedback
+- Pull-to-refresh controls
+- Touch-optimized targets (44×44px minimum)
+- Responsive breakpoints
 
 ---
 
 ## 💼 Careers & Open Positions
 
-We're actively hiring across AI engineering, data science, platform engineering, design, and healthcare. All positions are based in Bengaluru with hybrid / remote options available.
+We're actively hiring across AI safety, alignment research, platform engineering, and more. Join us in building the infrastructure for safe superintelligence. All positions are based in Bengaluru with hybrid/remote options available.
 
 | Role | Department | Experience | Type |
 |---|---|---|---|
@@ -228,7 +330,15 @@ We're actively hiring across AI engineering, data science, platform engineering,
 | Company Auditor | Finance | 2+ yrs | Part-time |
 | Company Secretary | Finance | 1+ yr | Part-time |
 
-📧 Apply at **[careers@kerdos.in](mailto:careers@kerdos.in)** or visit **[kerdos.in/careers](https://kerdos.in/careers)**
+### 🎯 Interested in AI Safety Jobs in India?
+
+We're looking for passionate individuals who want to work on cutting-edge AI safety and alignment challenges. If you're excited about:
+- Training superintelligence safely
+- Building AI alignment infrastructure
+- Mechanistic interpretability research
+- AI governance and policy
+
+**Apply now:** [careers@kerdos.in](mailto:careers@kerdos.in) or visit [kerdos.in/careers](https://kerdos.in/careers)
 
 ---
 
@@ -243,6 +353,7 @@ We're actively hiring across AI engineering, data science, platform engineering,
 | 📸 Instagram | [@kerdosinfrasoft](https://instagram.com/kerdosinfrasoft) |
 | ⭐ AmbitionBox | [View Profile](https://www.ambitionbox.com/overview/kerdos-infrasoft-overview) |
 | 🗂️ F6S | [View Profile](https://www.f6s.com/company/kerdos-infrasoft-private-limited) |
+| 🤗 HuggingFace | [Kerdos AI Demo](https://huggingface.co/spaces/kerdosdotio/Custom-LLM-Chat) |
 
 ---
 
@@ -252,10 +363,33 @@ We're actively hiring across AI engineering, data science, platform engineering,
 |---|---|
 | 📧 **General Enquiries** | [info@kerdos.in](mailto:info@kerdos.in) |
 | 💼 **Careers** | [careers@kerdos.in](mailto:careers@kerdos.in) |
+| 👔 **CEO** | [ceo@kerdos.in](mailto:ceo@kerdos.in) |
+| 🤝 **Partnerships** | [partnerships@kerdos.in](mailto:partnerships@kerdos.in) |
+| 💰 **Investor Relations** | [investor_relations@kerdos.in](mailto:investor_relations@kerdos.in) |
+| 🔒 **Security** | [security@kerdos.in](mailto:security@kerdos.in) |
 | 📞 **Phone** | +91-996-450-1739 |
 | 📍 **Office** | Unit 101, Oxford Towers, 139 HAL Old Airport Road, Bengaluru North, Karnataka 560008, India |
+
+### Additional Resources
+
+| | |
+|---|---|
 | 🗓️ **Book a Demo** | [kerdos.in/book-demo](https://kerdos.in/book-demo) |
-| 🔒 **Security** | [kerdos.in/security](https://kerdos.in/security) |
+| 🔒 **Security Information** | [kerdos.in/security](https://kerdos.in/security) |
+| 💼 **Careers Portal** | [kerdos.in/careers](https://kerdos.in/careers) |
+| 📝 **Blog** | [kerdos.in/blog](https://kerdos.in/blog) |
+
+---
+
+## 🏆 Recognition & Certifications
+
+<div align="center">
+
+[![DPIIT Startup India](https://img.shields.io/badge/DPIIT-DIPP170654-FF9933?style=for-the-badge)](https://www.startupindia.gov.in/)
+[![MSME UDYAM](https://img.shields.io/badge/UDYAM-KR--03--0393965-138808?style=for-the-badge)](https://udyamregistration.gov.in/)
+[![AmbitionBox](https://img.shields.io/badge/AmbitionBox-4.3%20★%20(15%20reviews)-FF6B2B?style=for-the-badge)](https://www.ambitionbox.com/overview/kerdos-infrasoft-overview)
+
+</div>
 
 ---
 
@@ -267,10 +401,18 @@ This document is provided for informational purposes. Kerdos Infrasoft Private L
 
 **CIN:** U62099KA2023PTC182869 &nbsp;·&nbsp; **DPIIT Startup India:** DIPP170654 &nbsp;·&nbsp; **UDYAM (MSME):** UDYAM-KR-03-0393965
 
+---
+
 <div align="center">
+
+### 🌟 Join Us in Building Safe Superintelligence
+
+*We're building the infrastructure to ensure that advanced AI systems are aligned with human values and operate safely at scale.*
+
+⭐ Star our repositories and follow us to stay updated with our innovations!
 
 ---
 
-*Last updated: March 2026*
+*Last updated: June 2026*
 
 </div>
