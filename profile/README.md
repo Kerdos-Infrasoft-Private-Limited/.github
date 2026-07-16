@@ -1,7 +1,5 @@
 <div align="center">
 
-<a href="https://kerdos.in"><img src="https://i.ibb.co/Xx056FRw/Chat-GPT-Image-Apr-8-2025-08-26-35-PM.png" alt="Kerdos AI - Kerdos Infrasoft" width="600"></a>
-
 # Kerdos Infrasoft Private Limited
 
 **AI Safety · Alignment Infrastructure · Superintelligence Training**
