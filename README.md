@@ -365,7 +365,7 @@ We're looking for passionate individuals who want to work on cutting-edge AI saf
 | 💼 **Careers** | [careers@kerdos.in](mailto:careers@kerdos.in) |
 | 👔 **CEO** | [ceo@kerdos.in](mailto:ceo@kerdos.in) |
 | 🤝 **Partnerships** | [partnerships@kerdos.in](mailto:partnerships@kerdos.in) |
-| 💰 **Investor Relations** | [investor_relations@kerdos.in](mailto:investor_relations@kerdos.in) |
+| 💰 **Finance** | [finance@kerdos.in](mailto:finance@kerdos.in) |
 | 🔒 **Security** | [security@kerdos.in](mailto:security@kerdos.in) |
 | 📞 **Phone** | +91-996-450-1739 |
 | 📍 **Office** | Unit 101, Oxford Towers, 139 HAL Old Airport Road, Bengaluru North, Karnataka 560008, India |
@@ -403,9 +403,7 @@ This document is provided for informational purposes. Kerdos Infrasoft Private L
 
 ---
 
-<div align="center">
-
-### 🌟 Join Us in Building Safe Superintelligence
+## 🌟 Join Us in Building Safe Superintelligence
 
 *We're building the infrastructure to ensure that advanced AI systems are aligned with human values and operate safely at scale.*
 
@@ -413,6 +411,6 @@ This document is provided for informational purposes. Kerdos Infrasoft Private L
 
 ---
 
-*Last updated: June 2026*
+*Last updated: July 2026*
 
 </div>
